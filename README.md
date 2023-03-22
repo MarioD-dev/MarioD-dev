@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, Mi nombre es Mario Alberto</h1>
-<h3 align="center">👋 Hola mi nombre es Mario Padilla Soy desarrollador web con ASP.NET core como mi principal herramiento de desarrollo, Siempre he sido muy autodidacta, me gusta aprender algo nuevo cada día y al mismo tiempo me gusta compartir ese conocimiento con los demás,🌟 siempre trato de conocer las mejores practicar para el desarrollo de aplicaciones web, Busco contribuir con creatividad e innovación en el logro de los objetivos generales de una empresa ayudandome de igual manera a crecer profecionalmente.🌳</h3>
+<h3 align="center">👋 Soy desarrollador web con ASP.NET core como mi principal herramiento de desarrollo, Siempre he sido muy autodidacta, me gusta aprender algo nuevo cada día y al mismo tiempo me gusta compartir ese conocimiento con los demás,🌟 siempre trato de conocer las mejores practicar para el desarrollo de aplicaciones web, Busco contribuir con creatividad e innovación en el logro de los objetivos generales de una empresa ayudandome de igual manera a crecer profecionalmente.🌳</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
